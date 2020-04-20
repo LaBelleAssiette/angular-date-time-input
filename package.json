@@ -14,6 +14,7 @@
     "time input",
     "time"
   ],
+  "version": "2.0.0",
   "dependencies": {
     "angular": "^1.x",
     "moment": "^2.15.x"
